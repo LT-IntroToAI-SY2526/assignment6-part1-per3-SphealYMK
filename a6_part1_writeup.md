@@ -1,6 +1,6 @@
 # Assignment 6 Part 1 - Writeup
 
-**Name:** _______________  
+**Name:** **Matthew Kupiec**
 **Date:** _______________
 
 ---
